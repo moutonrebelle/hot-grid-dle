@@ -35,7 +35,7 @@ figure {
 
 figcaption {
   position: absolute;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .5);
   border-radius: .5rem;
   padding: 1rem;
   z-index: 2;
